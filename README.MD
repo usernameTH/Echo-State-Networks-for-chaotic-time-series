@@ -2,7 +2,7 @@
 
 A Python ML pipeline for simulating and predicting the chaotic dynamics of the Lorenz Attractor using Reservoir Computing.
 
-https://github.com/user-attachments/assets/1e3f3c3e-29ad-470d-a913-fbfd7f6eed2a
+![ESN Dashboard Demo](https://github.com/user-attachments/assets/1e3f3c3e-29ad-470d-a913-fbfd7f6eed2a)
 
 ## Motivation
 Predicting chaotic systems is a notoriously difficult task in Machine Learning due to their extreme sensitivity to initial conditions. This project demonstrates the implementation of an **Echo State Network (ESN)**—a type of Recurrent Neural Network (RNN)—built from scratch to forecast the multi-dimensional trajectory of the Lorenz system.
