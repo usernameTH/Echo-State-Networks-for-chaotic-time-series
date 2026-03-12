@@ -5,7 +5,7 @@ A Python ML pipeline for simulating and predicting the chaotic dynamics of the L
 ![ESN Dashboard Demo](https://github.com/user-attachments/assets/1e3f3c3e-29ad-470d-a913-fbfd7f6eed2a)
 
 ## Web Application
-Test the model's predictive power yourself! Adjust the Spectral Radius, Leak Rate and reservoir size to find eoptimal accuracy:
+Test the model's predictive power yourself! Adjust the Spectral Radius, Leak Rate and reservoir size to find optimal accuracy:
 https://esn-chaos.streamlit.app/
 
 ## Motivation
